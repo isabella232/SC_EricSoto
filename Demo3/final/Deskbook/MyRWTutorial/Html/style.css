@@ -1,0 +1,22 @@
+body {
+  padding: 0;
+  font: 16px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+/* Custom Fonts From Bundle */
+
+@font-face {
+  font-family: Neuropol;
+  src: url('NEUROPOL.ttf');
+}
+
+/* Bio Style */
+
+div.bio {
+  font-size: 16px;
+}
+
+div.bio dt {
+  font-family: Neuropol;
+}
+
